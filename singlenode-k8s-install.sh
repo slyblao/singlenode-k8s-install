@@ -288,7 +288,7 @@ echo ---------------------------------------------------------------------------
 echo Access Kubernetes Dashboard using Kubectl proxy..... To do this you will spin up a proxy server between our local machine and the Kubernetes apiserver.
 echo Access dashboard with ths URL http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login
 echo ---------------------------------------------------------------------------------------------------------------------
-echo ------------------------------------------------- Sly.B -------------------------------------------------------------
+echo ------------------------------------------------- @nbrico -------------------------------------------------------------
 echo ---------------------------------------------------------------------------------------------------------------------
 echo #######
 echo #######
